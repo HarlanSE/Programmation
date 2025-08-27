@@ -1,0 +1,7 @@
+valorAlfa = float(input())
+G1 = (valorAlfa*0.46)
+G2 = (valorAlfa*0.32)
+G3 = (valorAlfa*0.22)
+print(f"{G1:.2f}")
+print(f"{G2:.2f}")
+print(f"{G3:.2f}")

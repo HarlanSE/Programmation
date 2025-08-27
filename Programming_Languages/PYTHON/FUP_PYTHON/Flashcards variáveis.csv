@@ -1,0 +1,11 @@
+﻿Variáveis são {{c1::espaços nomeados na memória}} que guardam valores que {{c1::podem ser modificados.}}
+Constantes são {{c1::espaços nomeados na memória}} que guardam valores que {{c1::não podem ser modificados}}.
+Literais são {{c1::valores em si}} escritos diretamente no código e que {{c1::não são atribuídos a nenhum nome}}.
+As características das variáveis incluem {{c1::Nome}}, {{c1::Tipo}} e {{c1::Valor}}.
+Os valores podem ser {{c1::atribuídos às variáveis}}.
+Os nomes das variáveis permitem {{c1::o acesso aos valores atribuídos a elas}} de qualquer outro lugar do código.
+A operação de atribuição é representada pelo sinal {{c1::=}} e é usada para {{c1::atribuir um valor a uma variável}}.
+"A leitura da operação a = 1 é ""{{c1::a recebe 1}}""."
+O nome de variáveis sempre {{c1::inicia-se com letras}}.
+O nome de uma variável pode conter {{c1::números e letras}}.
+O nome de uma variável pode incluir o caractere {{c1::_}}.
